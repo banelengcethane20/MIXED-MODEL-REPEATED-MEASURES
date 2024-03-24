@@ -1,0 +1,25 @@
+---
+title: "class assignment ASSUMPTIONS"
+author: "Banele Ngcethane 202334512"
+date: "2023-10-04"
+output: html_document
+---
+
+
+## MIXED MODEL REPEATED MEASURES
+## ASSUMPTIONS
+
+1. LINEARITY  
+->the dependent variable and fixed and random effects should be linear.  
+2. NORMALITY  
+->the residuals of the model should be normally distributed.  
+3. HOMEOSCEDASTICITY  
+->the variance of the residuals should be constant all levels of the fixed and random effects.  
+4. SPHERICITY  
+-> this assusmption is only relevant for repeated measures models with three or more levels of the within-subjects.  
+->it state that the variance of the differences scores between any two levels of the within-subjects factors should be equal.  
+5. Missing data at random  
+-> the missings of the data should be independent of the unobserved values and should only depend on the observed values.  
+
+
+
